@@ -9,3 +9,13 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Velvet Morning,Amber Keys,rnb,relaxed,0.48,96,0.73,0.68,0.42
+12,Voltage Dreams,Static Bloom,edm,happy,0.96,140,0.88,0.92,0.02
+13,Blue Hour Letters,June Harbor,indie,chill,0.31,68,0.57,0.39,0.82
+14,Heavy Weather,Iron Season,metal,intense,0.94,160,0.32,0.52,0.08
+15,Golden Hour Drive,Sol Avenue,rnb,happy,0.67,105,0.86,0.75,0.30
+16,Quiet Pages,Moss Theory,acoustic,focused,0.24,74,0.55,0.28,0.95
+17,Neon Afterglow,Pixel Hearts,synthwave,moody,0.72,116,0.51,0.70,0.19
+18,Sunday Kitchen,Marigold Lane,soul,relaxed,0.44,88,0.78,0.57,0.66
+19,Wildfire Run,Redline Echo,rock,intense,0.89,148,0.41,0.64,0.12
+20,Cloud Watching,Soft Orbit,ambient,chill,0.19,58,0.62,0.35,0.97
